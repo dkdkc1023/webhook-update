@@ -1,1 +1,1 @@
-{"version":"1.3.0","notes":"전체 안정성 점검: 동시 저장 충돌 방지, 테스트 전송 오류 표시, 신규 웹훅 안전 비활성화, 프리셋 이름 중복 및 업데이트 캐시 문제를 개선했습니다.","url":"https://raw.githubusercontent.com/dkdkc1023/webhook-update/7bfdb8b273e6646a91d62576a1d1017a4346e001/dist/Discord-Webhook-Sender.exe"}
+{"version":"1.3.1","notes":"보라색 V 전용 아이콘을 exe, 프로그램 창, 작업표시줄에 적용했습니다.","url":"https://raw.githubusercontent.com/dkdkc1023/webhook-update/74e06330dafc4d58f131568f04a6a204e280d699/dist/Discord-Webhook-Sender.exe"}
